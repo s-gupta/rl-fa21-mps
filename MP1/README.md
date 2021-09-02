@@ -12,10 +12,11 @@ C. [Linear Quadratic Regulators](./lqr) <br/>
 [policies](http://saurabhg.web.illinois.edu/teaching/ece598sg/fa2021/policies.html)
 on [course
 website](http://saurabhg.web.illinois.edu/teaching/ece598sg/fa2021/index.html).
-3. Submission instructions:
+3. We will be using [gradescope](https://www.gradescope.com/) for 
+submissions and auto-grading. Gradescope entry code is `2R8Z5Y`. Submission instructions:
    1. A single report for all questions in PDF format, to be submitted to
-   gradescope (under assignment `MP1`). Please also tag your PDF
-   with locations for each question in the gradescope interface.
+   gradescope (under assignment `MP1`). Please also tag your PDF with locations 
+   for each question in the gradescope interface.
    2. Autograded components should be uploaded to the assigment
    `MP1-autograder`. Follow the instructions for each autograded component for
    what should be uploaded. You final submission to the `MP1-autograder`
