@@ -50,9 +50,10 @@ The starter code produces predictions on the test set, writing to the file
 `MP1_sseg_predictions.npy`. After you have finished developing your model,
 generate predictions using this code to evaluate against the ground truth
 labels on gradescope. Upload the file `MP1_sseg_predictions.npy` to the
-`MP1-autograder` assignment on gradescope to have it graded. Make sure to include
-all auto-graded components from all components of MP1 for your final
-submission.
+`MP1-autograder` assignment on gradescope to have it graded. Additionally, with
+your submission, upload your code (model definition and training loop). Make
+sure to include all auto-graded components from all components of MP1 for your
+final submission.
 
 3. **Further train the ResNet trunk [0 pts]**: If you are curious, you can also
 train the ResNet-18 trunk (that you kept fixed above) further. 

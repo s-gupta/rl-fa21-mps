@@ -67,8 +67,9 @@ predictions on the test set, writing to the file `MP1_char_predictions.npy`.
 After you have finished developing your model, generate predictions using this
 code to evaluate against the ground truth labels on gradescope. Upload the file
 `MP1_char_predictions.npy` to the `MP1-autograder` assignment on gradescope to
-have it graded. Make sure to include all auto-graded components from all
-components of MP1 for your final submission.
+have it graded. Additionally, with your submission, upload your code (model
+definition and training loop). Make sure to include all auto-graded components
+from all components of MP1 for your final submission.
 
 #### References
 1. https://www.kaggle.com/Cornell-University/arxiv
