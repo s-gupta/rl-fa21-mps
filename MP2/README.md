@@ -29,7 +29,7 @@ learning plots.
    environmental interactions used, in the directory `LOGDIR/seed0/val`.  You
    can also view the behavior of your learned policy by adding in a `--vis`
    flag. You can do multiple runs, by changing the seed.  You can aggregate
-   these runs using: `python aggregate_and_plot.py --logdir "LOGDIR1 LOGDIR2"
+   these runs using: `python aggregate_and_plot.py --logdirs "LOGDIR1 LOGDIR2"
    --output_file_name a.pdf --seeds 5`. Feel free to modify this plotting
    script as necessary.
    
