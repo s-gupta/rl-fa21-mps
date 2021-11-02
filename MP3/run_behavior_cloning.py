@@ -31,9 +31,6 @@ flags.DEFINE_string('logdir', None, 'Directory to store loss plots, etc.')
 flags.DEFINE_string('datadir', 'data/', 'Directory with expert data.')
 flags.mark_flag_as_required('logdir')
 
-import util.lambda_loader
-import util
-
 def get_dims(env_name):
     if env_name == 'CartPole-v2':
         discrete = True
